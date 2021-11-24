@@ -5,6 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class SaberApplication {
+    //添加测试
 
     public static void main(String[] args) {
         SpringApplication.run(SaberApplication.class, args);
